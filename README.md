@@ -1,12 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=220&section=header&text=JaeWoo%20Choi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=20&descAlignY=55)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+JaeWoo+Choi;AI+%26+Big+Data+Convergence+Management;Interested+in+Computer+Vision+and+Machine+Learning;Deepfake+Detection+%7C+Forecasting+%7C+Anomaly+Detection)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=WELCOME&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=This%20is%20JaeWoo%27s%20Github&descSize=22&descAlign=70&descAlignY=60&fontAlignY=38)
 
 ## Hi there 👋
 
@@ -93,4 +85,4 @@ I enjoy building end-to-end AI pipelines, from data preprocessing and feature en
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
