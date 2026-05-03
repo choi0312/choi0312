@@ -27,7 +27,7 @@ I am interested in applying **Artificial Intelligence** and **Data Science** acr
 
 My current interests include **AI Agents**, **Vision-Language Models (VLMs)**, and **efficient Large Language Models (LLMs)**, especially in areas such as model compression, lightweight adaptation, and deployment-oriented optimization.
 
-I am also interested in **Computer Vision**, **Deepfake Detection**, **Demand Forecasting**, and **Anomaly Detection**, where machine learning can be used to extract meaningful insights from complex data and support intelligent decision-making.
+I am also interested in **Computer Vision**, **Demand Forecasting**, and **Anomaly Detection**, where machine learning can be used to extract meaningful insights from complex data and support intelligent decision-making.
 
 <br/>
 
