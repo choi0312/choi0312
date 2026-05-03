@@ -8,9 +8,8 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:andtwo2001@gmail.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](YOUR_NOTION_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN_LINK)
 
 </div>
 
@@ -24,30 +23,11 @@
 
 Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management** at **Kookmin University**.
 
-I am interested in **Artificial Intelligence**, **Machine Learning**, and **Data Science**, especially in areas such as **Computer Vision**, **Deepfake Detection**, **Demand Forecasting**, and **Anomaly Detection**.
+I am interested in applying **Artificial Intelligence** and **Data Science** across diverse industries, with a particular focus on building AI-driven solutions that can address practical problems in real-world domains.
 
-I enjoy building end-to-end AI pipelines, from **data preprocessing** and **feature engineering** to **model training**, **evaluation**, and **project documentation**.
+My current interests include **AI Agents**, **Vision-Language Models (VLMs)**, and **efficient Large Language Models (LLMs)**, especially in areas such as model compression, lightweight adaptation, and deployment-oriented optimization.
 
-<br/>
-
-## Interests
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Computer Vision</b></td>
-    <td align="center"><b>Deepfake Detection</b></td>
-    <td align="center"><b>Machine Learning</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Demand Forecasting</b></td>
-    <td align="center"><b>Anomaly Detection</b></td>
-    <td align="center"><b>LLM & Model Compression</b></td>
-  </tr>
-</table>
-
-</div>
+I am also interested in **Computer Vision**, **Deepfake Detection**, **Demand Forecasting**, and **Anomaly Detection**, where machine learning can be used to extract meaningful insights from complex data and support intelligent decision-making.
 
 <br/>
 
@@ -87,28 +67,6 @@ I enjoy building end-to-end AI pipelines, from **data preprocessing** and **feat
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=choi0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
-
-</div>
-
-<br/>
-
-## Currently Focused On
-
-<div align="center">
-
-`Computer Vision` &nbsp;&nbsp; `Deepfake Detection` &nbsp;&nbsp; `Tabular ML` &nbsp;&nbsp; `Time-Series Forecasting`  
-`Anomaly Detection` &nbsp;&nbsp; `LLM` &nbsp;&nbsp; `Model Compression` &nbsp;&nbsp; `Reproducible ML`
 
 </div>
 
