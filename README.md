@@ -18,7 +18,7 @@
 Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management**  
 (Convergence Double Major: **Data Science**) at **Kookmin University**.
 
-My research interests focus on **AI model design and adaptation** for structured and unstructured data. I am particularly interested in connecting **data analytics**, **computer vision**, and **industrial AI** to solve real-world prediction, anomaly detection, and decision-support problems.
+My research interests focus on **AI model design and adaptation** for structured and unstructured data. I am particularly interested in integrating **data analytics**, **large language models (LLMs)**, **computer vision**, and **industrial AI** to address real-world prediction, anomaly detection, and decision-support problems.
 
 I aim to study how AI models can be adapted and optimized for diverse real-world tasks, with an emphasis on practicality, efficiency, and reliability.
 
