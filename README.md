@@ -4,7 +4,7 @@
 
 ## JaeWoo Choi
 
-### Aspiring AI Researcher
+### I aspire to become an AI researcher.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=andtwo2001@gmail.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](YOUR_NOTION_LINK)
@@ -34,38 +34,38 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
 
 ---
 
-## Award-Winning Projects & Research Fit
+## Award-Winning Projects
 
-* 🥇 **DINOv3-ViT-LoRA Deepfake Detection**  
-  **1위(대상) | 헥토 채용연계형 AI 경진대회: 딥페이크 탐지**
+* 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 대상(1위)**
+  * **Project:** DINOv3-ViT-LoRA Deepfake Detection
   * Developed a parameter-efficient deepfake detection pipeline using **DINOv3 ViT-L/16**, **LoRA adapter tuning**, and a **register-aware classification head**.
   * Designed an integrated image/video inference strategy with face cropping, frame-level sampling, and aggregation-based prediction.
   * Related interests: **efficient adaptation**, **visual foundation models**, **trustworthy visual recognition**.
   * [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)
 
-* 🥈 **AIS Route Reconstruction**  
-  **2위 | 스마트 해운물류 × AI 미션 챌린지: AIS 항로 복원 예측**
+* 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위(울산항만공사사장상)**
+  * **Project:** AIS Route Reconstruction
   * Built a maritime trajectory reconstruction pipeline for recovering missing AIS route segments using **Kalman filtering**, **RTS smoothing**, **temporal delta modeling**, and **anchor-based path correction**.
   * Focused on preserving physically plausible vessel trajectories under missing-signal conditions.
   * Related interests: **industrial AI**, **trajectory modeling**, **logistics intelligence**, **reliable time-series prediction**.
   * [🔗 `ais-route-reconstruction`](https://github.com/choi0312/ais-route-reconstruction)
 
-* 🥈 **Maritime Anomaly Signal Diagnosis**  
-  **2위 | 스마트 해운물류 × AI 미션 챌린지: 비정상 작동 진단 / 이상신호 감지**
+* 🥈 **스마트 해운물류 × AI 미션 챌린지: 이상신호 감지 기반 비정상 작동 진단 — 2위**
+  * **Project:** Maritime Anomaly Signal Diagnosis
   * Developed a 20-class anomaly diagnosis pipeline for anonymized maritime sensor signals using **feature engineering**, **distance-based features**, **LDA/KMeans-derived representations**, and **LightGBM + neural network ensemble**.
   * Incorporated validation-driven modeling and rule-based post-processing to reduce confusion between ambiguous anomaly classes.
   * Related interests: **anomaly detection**, **sensor data analytics**, **industrial monitoring**, **tabular machine learning**.
   * [🔗 `maritime-anomaly-signal-diagnosis`](https://github.com/choi0312/maritime-anomaly-signal-diagnosis)
 
-* 🥇 **LG Aimers Demand Forecasting**  
-  **3위 | LG Aimers 7기 AI 해커톤: 식음업장 메뉴 수요예측**
+* 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위(한경닷컴 사장상)**
+  * **Project:** LG Aimers Demand Forecasting
   * Built a forecasting pipeline by combining **structured/time-series feature engineering**, **sparse-demand correction**, **LightGBM Tweedie regression**, and **ensemble strategies**.
   * Integrated operational and external features such as calendar effects, weather, reservations, room sales, and visitor-related signals.
   * Related interests: **demand forecasting**, **industrial decision support**, **tabular ML**, **robust ensemble learning**.
   * [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th)
 
-* 🏆 **SOLPICK: Solar ROI Bidding Platform**  
-  **최우수상(1위) | 국민대학교 데이터 분석 아이디어 콜라톤**
+* 🏆 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위(최우수상)**
+  * **Project:** SOLPICK: Solar ROI Bidding Platform
   * Designed and implemented a solar installation decision-support prototype that estimates solar generation, installation cost, subsidies, payback period, long-term ROI, and installer recommendation scores.
   * Structured the system for future integration with public weather data, energy subsidy information, and real installer databases.
   * Related interests: **AI service design**, **forecasting-based decision support**, **ROI analysis**, **recommender systems**.
