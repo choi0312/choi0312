@@ -37,7 +37,7 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
 ## Awards
 
 * 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 1위(대상)**  
-  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)  
+  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection) · [📰 News1 Article](https://www.news1.kr/industry/general-industry/6098522)  
   DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.
 
 * 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위(울산항만공사사장상)**  
@@ -49,8 +49,8 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
   비식별 해양 센서 데이터를 대상으로 피처 엔지니어링, 거리 기반 특징, LDA/KMeans 표현, LightGBM 및 신경망 앙상블 기반 이상진단 모델을 설계했습니다.
 
 * 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위(한경닷컴 사장상)**  
-  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th)  
-  정형·시계열 데이터 기반 피처 엔지니어링, 희소 수요 보정, LightGBM Tweedie 회귀 및 앙상블 전략을 결합한 수요예측 파이프라인을 구축했습니다.
+  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th) · [📰 Hankyung Article](https://www.hankyung.com/article/202510163588i)  
+  리조트 내 식음업장별 위치와 이용 동선, 방문객 흐름, 예약·객실·날씨 등 운영 변수를 함께 고려하여 메뉴별 수요를 예측하는 정형·시계열 기반 예측 파이프라인을 구축했습니다.
 
 * 🏆 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위(최우수상)**  
   [🔗 `solpick-solar-roi-bidding-platform`](https://github.com/choi0312/solpick-solar-roi-bidding-platform)  
