@@ -18,19 +18,18 @@
 Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management**  
 (Convergence Double Major: **Data Science**) at **Kookmin University**.
 
-My research interests lie in **efficient and reliable AI systems** for real-world industrial and multimodal problems. I am particularly interested in connecting **AI Agents**, **Vision-Language Models (VLMs)**, and **efficient Large Language Models (LLMs)** with practical decision-making tasks such as forecasting, anomaly detection, and intelligent system optimization.
+My research interests focus on **efficient and reliable AI systems** for real-world industrial and multimodal problems. I am particularly interested in **AI Agents**, **Vision-Language Models (VLMs)**, and **efficient Large Language Models (LLMs)**, with an emphasis on lightweight adaptation, robust prediction, and deployment-oriented optimization.
 
-I have built AI projects across **deepfake detection**, **demand forecasting**, **maritime anomaly detection**, and **trajectory reconstruction**, and I aim to further study how AI models can become more **robust**, **lightweight**, and **deployable** in real-world environments.
+Rather than simply applying off-the-shelf AI models, I have focused on adapting model architectures and training/inference pipelines to task-specific data characteristics, including backbone utilization, lightweight adapters, task-specific heads, feature representations, and prediction aggregation strategies. I aim to extend these experiences into research on practical, efficient, and trustworthy AI systems.
 
 ---
 
 ## Research Interests
 
-- **Efficient AI Systems**: LLM compression, parameter-efficient fine-tuning, lightweight adaptation
-- **Multimodal Intelligence**: Vision-Language Models, deepfake detection, visual understanding
+- **Efficient AI**: LLM compression, parameter-efficient fine-tuning, lightweight adaptation
+- **Multimodal AI**: Vision-Language Models, deepfake detection, visual understanding
 - **Industrial AI**: demand forecasting, anomaly detection, maritime/logistics intelligence
-- **Reliable Decision-Making**: robust prediction, uncertainty-aware modeling, deployment-oriented optimization
-- **AI Agents**: tool-using agents, workflow automation, applied decision-support systems
+- **AI Agents**: tool-using agents, workflow automation, decision-support systems
 
 ---
 
