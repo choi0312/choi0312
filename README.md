@@ -4,7 +4,7 @@
 
 ## JaeWoo Choi
 
-### "I aspire to become an AI researcher."
+### I aspire to become an AI researcher.
 
 <br/>
 
