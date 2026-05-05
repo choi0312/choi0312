@@ -4,7 +4,7 @@
 
 ## JaeWoo Choi
 
-### AI · Data Science · Machine Learning
+### "I aspire to become an AI researcher."
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ## About Me
 
-Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management** at **Kookmin University**.
+Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management** (Convergence Double Major: **Data Science**) at **Kookmin University**.
 
 I am interested in applying **Artificial Intelligence** and **Data Science** across diverse industries, with a particular focus on building AI-driven solutions that can address practical problems in real-world domains.
 
