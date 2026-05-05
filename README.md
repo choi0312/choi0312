@@ -18,42 +18,42 @@
 Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management**  
 (Convergence Double Major: **Data Science**) at **Kookmin University**.
 
-My research interests focus on **efficient and reliable AI systems** for real-world problems. I am interested in designing, adapting, and optimizing AI models for diverse tasks, with an emphasis on practicality, efficiency, and reliability.
+My research interests focus on **AI model design and adaptation** for structured and unstructured data. I am particularly interested in connecting **data analytics**, **computer vision**, and **industrial AI** to solve real-world prediction, anomaly detection, and decision-support problems.
 
-I aim to develop AI systems that can effectively connect model-level techniques with real-world decision-making and problem-solving contexts.
+I aim to study how AI models can be adapted and optimized for diverse real-world tasks, with an emphasis on practicality, efficiency, and reliability.
 
 ---
 
 ## Research Interests
 
-- **Efficient AI**: LLM compression, parameter-efficient fine-tuning, lightweight adaptation
+- **AI & Data Analytics**: machine learning, deep learning, structured/unstructured data analysis
 - **Computer Vision**: visual representation learning, image/video understanding, vision foundation model adaptation
-- **Industrial AI**: demand forecasting, anomaly detection, decision-support systems
-- **AI Agents**: tool-using agents, workflow automation, intelligent task planning
+- **Industrial AI**: time-series forecasting, anomaly detection, smart manufacturing, decision-support systems
+- **Efficient & Transferable AI**: transfer learning, parameter-efficient adaptation, reliable model deployment
 
 ---
 
 ## Awards
 
 * 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 1위(대상)**  
-  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection) · [📰 News1 Article](https://www.news1.kr/industry/general-industry/6098522)  
-  DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.
+  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection) · [📰 Article](https://www.news1.kr/industry/general-industry/6098522)  
+  DINOv3 ViT-L/16 기반의 visual foundation model을 LoRA adapter와 task-specific classification head로 적응시켜 이미지·비디오 기반 딥페이크 탐지 파이프라인을 구축했습니다.
 
 * 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위(울산항만공사사장상)**  
   [🔗 `ais-route-reconstruction`](https://github.com/choi0312/ais-route-reconstruction)  
-  Kalman filtering, RTS smoothing, temporal delta modeling을 활용하여 AIS 누락 구간을 복원하는 해운물류 시계열 복원 파이프라인을 구축했습니다.
+  Kalman filtering, RTS smoothing, temporal modeling을 결합하여 누락된 AIS 시계열 구간을 복원하고, 산업 데이터 기반 trajectory reconstruction 파이프라인을 구축했습니다.
 
 * 🥈 **스마트 해운물류 × AI 미션 챌린지: 이상신호 감지 기반 비정상 작동 진단 — 2위**  
   [🔗 `maritime-anomaly-signal-diagnosis`](https://github.com/choi0312/maritime-anomaly-signal-diagnosis)  
-  비식별 해양 센서 데이터를 대상으로 피처 엔지니어링, 거리 기반 특징, LDA/KMeans 표현, LightGBM 및 신경망 앙상블 기반 이상진단 모델을 설계했습니다.
+  비식별 센서 데이터를 대상으로 feature engineering, distance-based representation, LDA/KMeans-derived features를 결합하여 산업 데이터 기반 다중 클래스 이상진단 모델을 설계했습니다.
 
 * 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위(한경닷컴 사장상)**  
-  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th) · [📰 Hankyung Article](https://www.hankyung.com/article/202510163588i)  
-  리조트 내 식음업장별 위치와 이용 동선, 방문객 흐름, 예약·객실·날씨 등 운영 변수를 함께 고려하여 메뉴별 수요를 예측하는 정형·시계열 기반 예측 파이프라인을 구축했습니다.
+  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th) · [📰 Article](https://www.hankyung.com/article/202510163588i)  
+  리조트 내 식음업장별 위치, 이용 동선, 방문객 흐름, 예약·객실·날씨 등 운영 변수를 반영하여 정형·시계열 데이터 기반 수요예측 파이프라인을 구축했습니다.
 
 * 🥇 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위(최우수상)**  
   [🔗 `solpick-solar-roi-bidding-platform`](https://github.com/choi0312/solpick-solar-roi-bidding-platform)  
-  태양광 발전량 예측, 설치비·지원금·회수기간·장기 ROI 분석, 시공사 추천을 포함한 의사결정지원형 AI 서비스 프로토타입을 기획·구현했습니다.
+  태양광 발전량 예측, ROI 분석, 지원금 매칭, 시공사 추천을 결합한 의사결정지원형 AI 서비스 프로토타입을 기획·구현했습니다.
 
 ---
 
@@ -73,6 +73,9 @@ I aim to develop AI systems that can effectively connect model-level techniques 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA-111827?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoGluon-1687A7?style=for-the-badge&logoColor=white"/>
