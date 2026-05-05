@@ -76,7 +76,16 @@ I aim to develop AI systems that can effectively connect model-level techniques 
   <img src="https://img.shields.io/badge/AutoGluon-1687A7?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Data & Computer Vision
+### LLM, Agents & Model Adaptation
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA-111827?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Data, Vision & Scientific Computing
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
@@ -85,15 +94,7 @@ I aim to develop AI systems that can effectively connect model-level techniques 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/>
 </p>
 
-### LLM & AI Agent
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Development & Deployment
+### Experimentation & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
