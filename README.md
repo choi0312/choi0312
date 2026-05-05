@@ -34,56 +34,42 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
 
 ---
 
-## Selected Projects & Research Fit
+## Award-Winning Projects & Research Fit
 
-* **DINOv3-ViT-LoRA Deepfake Detection**
+* 🥇 **DINOv3-ViT-LoRA Deepfake Detection**  
+  **1위(대상) | 헥토 채용연계형 AI 경진대회: 딥페이크 탐지**
   * Developed a parameter-efficient deepfake detection pipeline using **DINOv3 ViT-L/16**, **LoRA adapter tuning**, and a **register-aware classification head**.
   * Designed an integrated image/video inference strategy with face cropping, frame-level sampling, and aggregation-based prediction.
   * Related interests: **efficient adaptation**, **visual foundation models**, **trustworthy visual recognition**.
   * [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)
 
-* **AIS Route Reconstruction**
+* 🥈 **AIS Route Reconstruction**  
+  **2위 | 스마트 해운물류 × AI 미션 챌린지: AIS 항로 복원 예측**
   * Built a maritime trajectory reconstruction pipeline for recovering missing AIS route segments using **Kalman filtering**, **RTS smoothing**, **temporal delta modeling**, and **anchor-based path correction**.
   * Focused on preserving physically plausible vessel trajectories under missing-signal conditions.
   * Related interests: **industrial AI**, **trajectory modeling**, **logistics intelligence**, **reliable time-series prediction**.
   * [🔗 `ais-route-reconstruction`](https://github.com/choi0312/ais-route-reconstruction)
 
-* **Maritime Anomaly Signal Diagnosis**
+* 🥈 **Maritime Anomaly Signal Diagnosis**  
+  **2위 | 스마트 해운물류 × AI 미션 챌린지: 비정상 작동 진단 / 이상신호 감지**
   * Developed a 20-class anomaly diagnosis pipeline for anonymized maritime sensor signals using **feature engineering**, **distance-based features**, **LDA/KMeans-derived representations**, and **LightGBM + neural network ensemble**.
   * Incorporated validation-driven modeling and rule-based post-processing to reduce confusion between ambiguous anomaly classes.
   * Related interests: **anomaly detection**, **sensor data analytics**, **industrial monitoring**, **tabular machine learning**.
   * [🔗 `maritime-anomaly-signal-diagnosis`](https://github.com/choi0312/maritime-anomaly-signal-diagnosis)
 
-* **LG Aimers Demand Forecasting**
-  * Developed a menu-level demand forecasting pipeline for F&B outlets using **LightGBM Tweedie regression**, **multi-output forecasting**, sparse-demand handling, and robust ensemble learning.
+* 🥇 **LG Aimers Demand Forecasting**  
+  **3위 | LG Aimers 7기 AI 해커톤: 식음업장 메뉴 수요예측**
+  * Built a forecasting pipeline by combining **structured/time-series feature engineering**, **sparse-demand correction**, **LightGBM Tweedie regression**, and **ensemble strategies**.
   * Integrated operational and external features such as calendar effects, weather, reservations, room sales, and visitor-related signals.
   * Related interests: **demand forecasting**, **industrial decision support**, **tabular ML**, **robust ensemble learning**.
   * [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th)
 
-* **SOLPICK: Solar ROI Bidding Platform**
+* 🏆 **SOLPICK: Solar ROI Bidding Platform**  
+  **최우수상(1위) | 국민대학교 데이터 분석 아이디어 콜라톤**
   * Designed and implemented a solar installation decision-support prototype that estimates solar generation, installation cost, subsidies, payback period, long-term ROI, and installer recommendation scores.
   * Structured the system for future integration with public weather data, energy subsidy information, and real installer databases.
   * Related interests: **AI service design**, **forecasting-based decision support**, **ROI analysis**, **recommender systems**.
   * [🔗 `solpick-solar-roi-bidding-platform`](https://github.com/choi0312/solpick-solar-roi-bidding-platform)
-
----
-
-## Awards
-
-- 🥇 **1위(대상) | 헥토 채용연계형 AI 경진대회: 딥페이크 탐지**  
-  이미지·동영상 기반 딥페이크 탐지 문제에서 DINOv3, ViT, LoRA 기반의 경량 적응형 비전 모델을 설계했습니다.
-
-- 🥈 **2위 | 스마트 해운물류 × AI 미션 챌린지: AIS 항로 복원 예측**  
-  선박 AIS 데이터의 누락 구간을 복원하고, 해운물류 데이터 기반의 항로 예측 및 시계열 복원 문제를 다뤘습니다.
-
-- 🥈 **2위 | 스마트 해운물류 × AI 미션 챌린지: 비정상 작동 진단 / 이상신호 감지**  
-  비식별 해양 센서 데이터를 활용하여 20개 이상 유형을 분류하는 산업 데이터 이상탐지 모델을 개발했습니다.
-
-- 🥉 **3위 | LG Aimers 7기 AI 해커톤: 식음업장 메뉴 수요예측**  
-  리조트 식음업장 메뉴별 수요를 예측하기 위해 정형 데이터 기반 수요예측 모델과 앙상블 전략을 설계했습니다.
-
-- 🏆 **최우수상(1위) | 국민대학교 데이터 분석 아이디어 콜라톤**  
-  태양광 발전량 예측, 경제성 분석, 지원금 매칭, 시공사 추천을 포함한 ROI 기반 의사결정지원 플랫폼을 기획·구현했습니다.
 
 ---
 
