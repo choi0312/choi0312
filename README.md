@@ -20,7 +20,7 @@ Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management**
 
 My research interests focus on **efficient and reliable AI systems** for real-world industrial and multimodal problems. I am particularly interested in **AI Agents**, **Vision-Language Models (VLMs)**, and **efficient Large Language Models (LLMs)**, with an emphasis on lightweight adaptation, robust prediction, and deployment-oriented optimization.
 
-Rather than simply applying off-the-shelf AI models, I have focused on adapting model architectures and training/inference pipelines to task-specific data characteristics, including backbone utilization, lightweight adapters, task-specific heads, feature representations, and prediction aggregation strategies. I aim to extend these experiences into research on practical, efficient, and trustworthy AI systems.
+I aim to study how AI models can be designed, adapted, and optimized for diverse real-world tasks, focusing on practicality, efficiency, and reliability.
 
 ---
 
