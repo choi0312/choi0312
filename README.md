@@ -26,10 +26,9 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 
 ## Research Interests
 
-- **AI & Data Analytics**: machine learning, deep learning, structured/unstructured data analysis
+- **Efficient & Transferable AI**: transfer learning, parameter-efficient adaptation, reliable model deployment, Model compression
 - **Computer Vision**: visual representation learning, image/video understanding, vision foundation model adaptation
 - **Industrial AI**: time-series forecasting, anomaly detection, smart manufacturing, decision-support systems
-- **Efficient & Transferable AI**: transfer learning, parameter-efficient adaptation, reliable model deployment
 
 ---
 
