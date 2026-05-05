@@ -36,7 +36,7 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
 
 ## Awards
 
-* 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 대상(1위)**  
+* 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 1위(대상)**  
   [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)  
   DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.
 
