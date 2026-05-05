@@ -31,6 +31,30 @@ I am also interested in **Computer Vision**, **Demand Forecasting**, and **Anoma
 
 <br/>
 
+## 🏆 Key Achievements & Selected Projects
+
+* **🥇 1st Place | Hecto Deepfake Detection Competition** (Feb 2026)
+  * Developed a robust deepfake detection model utilizing DINOv3, Vision Transformer (ViT), and LoRA.
+  * [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)
+
+* **🥈 2nd Place | Smart Maritime & Logistics × AI Mission Challenge: Vessel Route Reconstruction** (Nov 2025)
+  * Reconstructed missing vessel routes and predicted trajectories utilizing AIS data.
+  * [🔗 `ais-route-reconstruction`](https://github.com/choi0312/ais-route-reconstruction)
+
+* **🥈 2nd Place | Smart Maritime & Logistics × AI Mission Challenge: Anomaly Detection** (Oct 2025)
+  * Designed an anomaly signal diagnosis model for maritime data in collaboration with Ulsan Port Authority.
+  * [🔗 `maritime-anomaly-signal-diagnosis`](https://github.com/choi0312/maritime-anomaly-signal-diagnosis)
+
+* **🥉 3rd Place | LG Aimers 7th AI Hackathon** (Sep 2025)
+  * Developed machine learning models for menu demand forecasting in the food service industry (LG AI Research).
+  * [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th)
+
+* **🏆 1st Place (Best Award) | Kookmin Univ. Data Analysis Idea Collathon** (Aug 2025)
+  * **SOLPICK**: Designed and developed a solar generation prediction simulation and ROI bidding platform.
+  * [🔗 `solpick-solar-roi-bidding-platform`](https://github.com/choi0312/solpick-solar-roi-bidding-platform)
+
+<br/>
+
 ## Technical Skills
 
 ### Languages
