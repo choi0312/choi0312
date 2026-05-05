@@ -36,7 +36,7 @@ I aim to develop AI systems that can effectively connect model-level techniques 
 ## Awards
 
 * 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 1위(대상)**  
-  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection) · [📰 Article](https://www.news1.kr/industry/general-industry/6098522)  
+  [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection) · [📰 News1 Article](https://www.news1.kr/industry/general-industry/6098522)  
   DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.
 
 * 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위(울산항만공사사장상)**  
@@ -48,7 +48,7 @@ I aim to develop AI systems that can effectively connect model-level techniques 
   비식별 해양 센서 데이터를 대상으로 피처 엔지니어링, 거리 기반 특징, LDA/KMeans 표현, LightGBM 및 신경망 앙상블 기반 이상진단 모델을 설계했습니다.
 
 * 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위(한경닷컴 사장상)**  
-  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th) · [📰 Article](https://www.hankyung.com/article/202510163588i)  
+  [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th) · [📰 Hankyung Article](https://www.hankyung.com/article/202510163588i)  
   리조트 내 식음업장별 위치와 이용 동선, 방문객 흐름, 예약·객실·날씨 등 운영 변수를 함께 고려하여 메뉴별 수요를 예측하는 정형·시계열 기반 예측 파이프라인을 구축했습니다.
 
 * 🥇 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위(최우수상)**  
@@ -67,33 +67,46 @@ I aim to develop AI systems that can effectively connect model-level techniques 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
+### Machine Learning & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoGluon-1687A7?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Development Tools
+### Data & Computer Vision
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-3B82F6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/>
 </p>
 
-### DevOps
+### LLM & AI Agent
 <p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Development & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-3B82F6?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+</p>
+
+### Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white"/>
 </p>
