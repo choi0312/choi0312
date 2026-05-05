@@ -27,7 +27,7 @@ I aim to develop AI systems that can effectively connect model-level techniques 
 ## Research Interests
 
 - **Efficient AI**: LLM compression, parameter-efficient fine-tuning, lightweight adaptation
-- **Computer Vision**: visual representation learning, image/video understanding, vision foundation model adaptation
+- **Computer Vision**: visual representation learning, vision foundation model adaptation
 - **Industrial AI**: demand forecasting, anomaly detection, decision-support systems
 - **AI Agents**: tool-using agents, workflow automation, intelligent task planning
 
