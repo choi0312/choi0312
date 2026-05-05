@@ -34,32 +34,27 @@ I have built AI projects across **deepfake detection**, **demand forecasting**, 
 
 ---
 
-## Award-Winning Projects
+## Awards
 
-* 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 대상(1위/458)**  
+* 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 대상(1위)**  
   [🔗 `dinov3-vit-lora-deepfake-detection`](https://github.com/choi0312/dinov3-vit-lora-deepfake-detection)  
-  DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.  
-  **Keywords:** Efficient Adaptation · Vision Transformer · Deepfake Detection · Trustworthy Visual Recognition
+  DINOv3 ViT-L/16, LoRA adapter tuning, register-aware classification head를 활용한 경량 적응형 딥페이크 탐지 파이프라인을 구축했습니다.
 
-* 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위/722(울산항만공사사장상)**  
+* 🥈 **스마트 해운물류 × AI 미션 챌린지: AIS 데이터를 활용한 선박 항로 복원 예측 — 2위(울산항만공사사장상)**  
   [🔗 `ais-route-reconstruction`](https://github.com/choi0312/ais-route-reconstruction)  
-  Kalman filtering, RTS smoothing, temporal delta modeling을 활용하여 AIS 누락 구간을 복원하는 해운물류 시계열 복원 파이프라인을 구축했습니다.  
-  **Keywords:** Trajectory Reconstruction · Maritime AI · Logistics Intelligence · Reliable Time-Series Prediction
+  Kalman filtering, RTS smoothing, temporal delta modeling을 활용하여 AIS 누락 구간을 복원하는 해운물류 시계열 복원 파이프라인을 구축했습니다.
 
-* 🥈 **스마트 해운물류 × AI 미션 챌린지: 이상신호 감지 기반 비정상 작동 진단 — 2위/493**  
+* 🥈 **스마트 해운물류 × AI 미션 챌린지: 이상신호 감지 기반 비정상 작동 진단 — 2위**  
   [🔗 `maritime-anomaly-signal-diagnosis`](https://github.com/choi0312/maritime-anomaly-signal-diagnosis)  
-  비식별 해양 센서 데이터를 대상으로 피처 엔지니어링, 거리 기반 특징, LDA/KMeans 표현, LightGBM 및 신경망 앙상블 기반 이상진단 모델을 설계했습니다.  
-  **Keywords:** Anomaly Detection · Sensor Data Analytics · Industrial Monitoring · Tabular Machine Learning
+  비식별 해양 센서 데이터를 대상으로 피처 엔지니어링, 거리 기반 특징, LDA/KMeans 표현, LightGBM 및 신경망 앙상블 기반 이상진단 모델을 설계했습니다.
 
-* 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위/817(한경닷컴 사장상)**  
+* 🥉 **LG Aimers 7th AI Hackathon: 식음업장 메뉴 수요예측 — 3위(한경닷컴 사장상)**  
   [🔗 `lg-aimers-7th`](https://github.com/choi0312/lg-aimers-7th)  
-  정형·시계열 데이터 기반 피처 엔지니어링, 희소 수요 보정, LightGBM Tweedie 회귀 및 앙상블 전략을 결합한 수요예측 파이프라인을 구축했습니다.  
-  **Keywords:** Demand Forecasting · Sparse Demand · Tabular ML · Robust Ensemble Learning
+  정형·시계열 데이터 기반 피처 엔지니어링, 희소 수요 보정, LightGBM Tweedie 회귀 및 앙상블 전략을 결합한 수요예측 파이프라인을 구축했습니다.
 
-* 🏆 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위/12(최우수상)**  
+* 🏆 **국민대학교 데이터 분석 아이디어 콜라톤 — 1위(최우수상)**  
   [🔗 `solpick-solar-roi-bidding-platform`](https://github.com/choi0312/solpick-solar-roi-bidding-platform)  
-  태양광 발전량 예측, 설치비·지원금·회수기간·장기 ROI 분석, 시공사 추천을 포함한 의사결정지원형 AI 서비스 프로토타입을 기획·구현했습니다.  
-  **Keywords:** Decision Support System · ROI Analysis · Forecasting-Based Service · Recommender System
+  태양광 발전량 예측, 설치비·지원금·회수기간·장기 ROI 분석, 시공사 추천을 포함한 의사결정지원형 AI 서비스 프로토타입을 기획·구현했습니다.
 
 ---
 
