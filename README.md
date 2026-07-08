@@ -37,7 +37,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 ## Awards
 
 * 🥇 **JB금융그룹 Fin:AI Challenge — 1위(JB금융그룹 회장상)**  
-  [🔗 `FinProof`](https://github.com/jb-finproof-team/FinProof)  
+  [🔗 `FinProof`](https://github.com/jb-finproof-team/FinProof) · [📰 Article](https://www.jbfg.com/ko/prcenter/press/detail/36.do)  
   pgvector 기반 RAG, 도메인별 Multi-Agent 분석, RAG + CoVe 근거 재검증을 결합해 금융 광고의 위반 가능성, 판단 근거, 위험도, 수정 권고안을 생성하는 Compliance AI Agent를 구축했습니다. 온톨로지 기반 사회맥락 지식그래프와 Cross-lingual NLI를 활용해 국가별 사회맥락 리스크와 다국어 준법 의미 왜곡을 탐지하는 Human-in-the-loop 심의 워크플로우를 구현했습니다.
 
 * 🥇 **Hecto AI Challenge: 딥페이크 탐지 — 1위(대상)**  
