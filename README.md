@@ -7,7 +7,7 @@
 ### Aspiring AI Researcher
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=andtwo2001@gmail.com)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://choijaewoo.notion.site/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choijaewoo?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 </div>
 
@@ -18,7 +18,7 @@
 Hello, I'm **JaeWoo Choi**, majoring in **AI Big Data & Management**  
 (Convergence Double Major: **Data Science**) at **Kookmin University**.
 
-My research interests focus on **AI model design and adaptation** for structured and unstructured data. I am particularly interested in integrating **data analytics**, **large language models (LLMs)**, **computer vision**, and **industrial AI** to address real-world prediction and decision-support problems. 
+My research interests focus on **AI model design and adaptation** for structured and unstructured data. I am particularly interested in integrating **data analytics**, **large language models (LLMs)**, **computer vision**, and **industrial AI** to address real-world prediction and decision-support problems.
 
 I aim to study how AI models can be adapted and optimized for diverse real-world tasks, with an emphasis on practicality, efficiency, and reliability.
 
@@ -28,7 +28,6 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 
 - **Efficient & Transferable AI**: model compression, transfer learning, parameter-efficient adaptation, reliable model adaptation
 - **LLM & AI Agents**: large language models, tool-using agents, workflow automation, decision-support systems
-
 - **Computer Vision**: visual representation learning, image/video understanding, vision foundation model adaptation
 - **Industrial AI & Data Analytics**: structured/time-series data analysis, anomaly detection, forecasting
 
@@ -65,6 +64,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 ## Technical Skills
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -73,6 +73,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 </p>
 
 ### Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -87,6 +88,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 </p>
 
 ### Development Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -100,6 +102,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 </p>
 
 ### DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
