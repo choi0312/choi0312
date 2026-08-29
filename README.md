@@ -36,7 +36,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 ## Awards
 
 * 🥇 **제3회 풍력발전량 예측 AI 경진대회 — 1위(한국동서발전 사장상)**  
-  [🔗 `LINK`]([https://github.com/jb-finproof-team/FinProof](https://dacon.io/competitions/official/236727/talkboard/417228?page=1&dtype=recent))
+  [🔗 `LINK`](https://dacon.io/competitions/official/236727/talkboard/417228?page=1&dtype=recent)
   LDAPS·GFS 수치예보와 발전소 운전 데이터를 활용해 익일 풍력발전량을 예측하는 Windsight 모델을 개발했습니다. MOS 기반 기상예보 오차 보정, 시공간·다중 고도 풍계장 Feature Engineering, Quantile LightGBM·Analog Ensemble을 결합해 확률적 예측분포를 구축하고, 평가 지표의 비대칭 보상구조를 반영한 Bayes 의사결정과 가중 CDF 앙상블로 예측값을 최적화했습니다. 발전소별 설비용량과 운영 특성을 반영해 모델을 세분화하고, 예측 오차가 정산 수익과 계통 운영에 미치는 영향을 고려한 운영 최적화 관점의 의사결정 체계를 구현했습니다.
   
 * 🥇 **JB금융그룹 Fin:AI Challenge AI agent 서비스 개발 — 1위(JB금융그룹 회장상)**  
