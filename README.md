@@ -35,7 +35,7 @@ I aim to study how AI models can be adapted and optimized for diverse real-world
 
 ## Awards
 
-* 🥇 **제3회 풍력발전량 예측 AI 경진대회 — 1위(한국동서발전 사장상)**  
+* 🥇 **풍력발전량 예측 AI 경진대회 BARAM2026 — 1위(한국동서발전 사장상)**  
   [🔗 `LINK`](https://dacon.io/competitions/official/236727/talkboard/417228?page=1&dtype=recent)
   LDAPS·GFS 수치예보와 발전 데이터를 활용한 익일 풍력발전량 예측 모델 Windsight를 개발했습니다. MOS 기상 보정, Quantile LightGBM·Analog Ensemble, 평가 지표 기반 의사결정을 결합해 예측 정확도와 정산 수익을 함께 고려한 발전소 운영 최적화를 구현했습니다.
   
